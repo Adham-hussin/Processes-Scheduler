@@ -1,0 +1,11 @@
+﻿  Source.cpp
+  scheduler.cpp
+C:\Users\eslam\OneDrive\Desktop\PH2_Team_22\project\Project\scheduler.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\eslam\OneDrive\Desktop\PH2_Team_22\project\Project\scheduler.cpp(127,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eslam\OneDrive\Desktop\PH2_Team_22\project\Project\scheduler.cpp(129,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\eslam\OneDrive\Desktop\PH2_Team_22\project\Project\scheduler.cpp(158,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\eslam\OneDrive\Desktop\PH2_Team_22\project\Project\scheduler.cpp(159,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\eslam\OneDrive\Desktop\PH2_Team_22\project\Project\scheduler.cpp(167,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\eslam\OneDrive\Desktop\PH2_Team_22\project\Project\scheduler.cpp(168,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project.vcxproj -> C:\Users\eslam\OneDrive\Desktop\PH2_Team_22\project\x64\Debug\Project.exe
